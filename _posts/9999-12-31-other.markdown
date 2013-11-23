@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Прочее"
+date:   9999-12-31 23:59:59
+categories: slides
+---
+
+#### Архив презентаций на SlideShare ([ссылка][slideshare])
+
+В архиве находится порядка 80 презентаций за прошлые годы (2008-2011).
+
+[slideshare]: http://www.slideshare.net/msucsai
