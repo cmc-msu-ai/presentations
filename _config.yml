@@ -1,0 +1,4 @@
+name: "Презентации спецсеминара \"Искусственный интеллект\""
+baseurl:  #/presentations
+markdown: redcarpet
+pygments: true
