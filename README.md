@@ -1,4 +1,5 @@
 presentations
 =============
 
-A set of presentations on different topics.
+CMC MSU Artificial Intelligence presentations.
+See [presentations site](http://cmc-msu-ai.github.io/presentations/).
