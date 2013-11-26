@@ -5,6 +5,13 @@ date:   9999-12-31 23:59:59
 categories: slides
 ---
 
+#### Git: распределённая система контроля версий ([PDF][git-slides-pdf], [GitHub][git-slides-repo])
+
+Небольшое введение в Git.
+
+[git-slides-pdf]:   {{ site.baseurl }}/pdf/git-slides.pdf
+[git-slides-repo]:  https://github.com/fizruk/git-slides 
+
 #### Архив презентаций на SlideShare ([ссылка][slideshare])
 
 В архиве находится порядка 80 презентаций за прошлые годы (2008-2011).
