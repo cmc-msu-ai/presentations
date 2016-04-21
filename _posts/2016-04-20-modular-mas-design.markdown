@@ -15,7 +15,7 @@ categories: slides
 Мы предлагаем использовать полиморфные функции высшего порядка для реализации модульных механизмов координации,
 не привязанных к предметной области или способу коммуникации агентов.
 
-[thesis-pdf]:   {{ site.baseurl }}/pdf/Подход к проектированию модульных многоагентных систем (тезис).pdf
-[talk-pdf]:     {{ site.baseurl }}/pdf/Подход к проектированию модульных многоагентных систем.pdf
-[talk-keynote]: {{ site.baseurl }}/keynote/Подход к проектированию модульных многоагентных систем.zip
+[thesis-pdf]:   {{ site.baseurl }}/pdf/modular-mas-design-thesis.pdf
+[talk-pdf]:     {{ site.baseurl }}/pdf/modular-mas-design.pdf
+[talk-keynote]: {{ site.baseurl }}/keynote/modular-mas-design.zip
 [talk-youtube]: https://youtu.be/yuGWULJMgQU
